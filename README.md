@@ -17,7 +17,7 @@ The criterion was based on the birth dates ranging from 1952 to 1955 and hired d
 
 - After conducting the analysis it was found that there is currently a large number of employees of retirement age holding senior titles (57,668/90,398 = 64%) with around **64%** of the staff to retire. Please reference the Unique Titles table below. 
 	
-	![alt text](https://github.com/Lindsaybgood/Pewlett-Hackard-Analysis/files/6736136/unique_titles.csv "Future Job Openings")
+	![retiring_titles_pic](https://user-images.githubusercontent.com/96216509/153529176-cd7272db-7a45-4866-930b-a66bab5872d0.png)
 
 
 ### Mentorship Candidates
