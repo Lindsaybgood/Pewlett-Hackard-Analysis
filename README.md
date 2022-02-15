@@ -37,4 +37,3 @@ The criterion was based on the birth dates ranging from 1952 to 1955 and hired d
 **Data Sources:** departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
 
 **Software:** SQL, PostgreSQL, pgAdmin
-
